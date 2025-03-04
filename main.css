@@ -10,6 +10,11 @@
   font-style: normal;
 }
 
+.resize{
+	width:195px;
+	height:290px;
+}
+
 body {
 	background-color: black;
 }
@@ -17,10 +22,26 @@ body {
 h1 {
 	color: mediumvioletred;
 	font-family: "Cinzel Decorative";
+	text-align: center;
 }
 
 p {
 	color: white;
 	font-family: "Cormorant Garamond";
 	font-size: 30px;
+	text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+div {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
 }
