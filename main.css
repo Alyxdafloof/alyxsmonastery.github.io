@@ -32,6 +32,20 @@ p {
 	text-align: center;
 }
 
+a {
+	color: lawngreen;
+	font-family: "Cormorant Garamond";
+	font-size: 30px;
+	text-align: center;
+}
+
+href {
+	color: lawngreen;
+	font-family: "Cormorant Garamond";
+	font-size: 30px;
+	text-align: center;
+}
+
 img {
   display: block;
   margin-left: auto;
